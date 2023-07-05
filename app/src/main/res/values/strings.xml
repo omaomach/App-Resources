@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResourcesApp</string>
+    <string name="text_welcome">Welcome back, its been 2 weeks now</string>
+    <string-array name="string_array_demo">
+        <item>Javascript</item>
+        <item>Ruby</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>
