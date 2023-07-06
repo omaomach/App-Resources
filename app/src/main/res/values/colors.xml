@@ -2,5 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="jgrey">#FF696969</color>
+    <color name="j_grey">#FF696969</color>
+    <color name="menu_bar">#344e41</color>
 </resources>
