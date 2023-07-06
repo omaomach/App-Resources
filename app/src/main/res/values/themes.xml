@@ -3,6 +3,9 @@
     <style name="Base.Theme.ResourcesApp" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#0F9D58</item>
+        <item name="colorPrimaryDark">@color/menu_bar</item>
+        <item name="colorAccent">@color/menu_bar</item>
     </style>
 
     <style name="Theme.ResourcesApp" parent="Base.Theme.ResourcesApp" />

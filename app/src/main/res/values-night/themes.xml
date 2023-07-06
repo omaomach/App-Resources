@@ -3,5 +3,8 @@
     <style name="Base.Theme.ResourcesApp" parent="Theme.Material3.DayNight">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#0F9D58</item>
+        <item name="colorPrimaryDark">@color/menu_bar</item>
+        <item name="colorAccent">@color/menu_bar</item>
     </style>
 </resources>
